@@ -17,7 +17,7 @@ $angka = [3,2,4,11,44,55,66,8]
             text-align: center;
             line-height: 50px;
             margin: 3px;
-            float: left;
+            float: right;
         }
         .clear { clear: both; }
     </style>
